@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on <a href="http://github.com/apache/flink/">Apache Flink</a>
+- 🌱 I’m currently learning analytics and storage of big data
+- 📫 How to reach me: mrwhitesike@gmail.com
